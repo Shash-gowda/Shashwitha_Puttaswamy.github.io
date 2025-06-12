@@ -1,9 +1,30 @@
-# Shashwitha Puttaswamy – GitHub Website
+ Shashwitha Puttaswamy – GitHub Website
 
-Welcome to my personal website built with GitHub Pages!
+ ![PHOTO-2024-08-31-00-25-00](https://github.com/user-attachments/assets/4ffe37e8-07a8-4fba-b8de-e72d2537f204)
+
+ Welcome to my personal website built with GitHub Pages!
+
+<header>
+    <h1>Shashwitha Puttaswamy</h1>
+    <p>Electrical Engineer | HPC & Network Research | Cyberinfrastructure | SCinet Contributor</p>
+  </header>
+
+<section>
+    <h2>Contact</h2>
+    <div class="contact">
+      <a href="mailto:shashwithaputtaswamy@gmail.com">Email</a>
+      <a href="https://www.linkedin.com/in/shashwitha">LinkedIn</a>
+      <a href="https://github.com/shashwitha">GitHub</a>
+    </div>
+  </section>
+
+## 🔗 Contact
+- 📫 Email: [shashwithaputtaswamy@gmail.com](mailto:shashwithaputtaswamy@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/shashwitha](https://www.linkedin.com/in/shashwitha)
+- 👩‍💻 GitHub: [github.com/shashwitha](https://github.com/shashwitha)
 
 ## 🌐 About
-This website showcases my work as a Research Scientist specializing in Computer Networks, Cyberinfrastructure, and HPC. It highlights my career journey, technical skills, and involvement with projects like SCinet, SENSE, and PRP.
+This website showcases my work as a Research Scientist specializing over 10 years of experience in Computer Networks, Cyberinfrastructure, and HPC with a research-driven career at leading institutions such as the California Institute of Technology (Caltech) and The George Washington University (GWU). Recognized for advancing scientific discovery through innovative infrastructure supporting high-impact projects like the Large Hadron Collider (LHC) and sensor-based environmental monitoring. It highlights my career journey, technical skills, and involvement with projects like SCinet, SENSE, and PRP.Led and contributed to federally funded research in high-performance computing (HPC), next-generation network architectures, data-intensive workflows, and distributed computing. Expertise spans HPC networking, cloud engineering, automation, and systems integration, with deep knowledge of routing, switching, security, and data center technologies. Proficient in designing and implementing end-to-end solutions across the PDIOO lifecycle for complex research environments. Awarded the CENIC Innovation in Networking for pioneering record-setting data transfer techniques that enabled global scientific collaborations. Experienced in developing and leading cross-institutional research proposals, authoring technical publications, conducting security reviews, shaping data management strategies, and mentoring in areas like big data, digital enterprise IT, and managed services all with a focus on scalable, reusable, and impactful solutions aligned with evolving research and technology trends.
 
 ## 📂 Key Sections
 - **About Me**
@@ -11,15 +32,67 @@ This website showcases my work as a Research Scientist specializing in Computer 
 - **Projects & Publications**
 - **Conferences & Research Contributions**
 
-## 🔧 Built With
-- HTML/CSS (minimal custom style)
-- [GitHub Pages](https://pages.github.com/)
-- Responsive Design (Mobile friendly)
-
-## 🔗 Contact
-- 📫 Email: [shashwithaputtaswamy@gmail.com](mailto:shashwithaputtaswamy@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/shashwitha](https://www.linkedin.com/in/shashwitha)
-- 👩‍💻 GitHub: [github.com/shashwitha](https://github.com/shashwitha)
-
 ---
+
+  <section>
+    <h2>Experience</h2>
+    <ul>
+      <li><strong>Research Scientist</strong> – George Washington University (2019–Present)<br>Lead network architect for GWNIC, SLAs, HPC networks, scientific workflows, and large data transfer solutions.</li>
+      <li><strong>Network Research Engineer</strong> – Caltech (2017–2019)<br>Maintained Tier-2 Data Center for LHC, worked on PRP, BGP peering, SDN testbeds, and high-speed network demonstrations.</li>
+    </ul>
+  </section>
+
+<section>
+    <h2>Publications & Media</h2>
+    <ul>
+      <li><a href="https://ijarcce.com/papers/secured-wireless-body-area-network-wban-for-physiological-parameter-sensing-for-military-personnel-with-ai-podiatric-gait-analysis/" target="_blank"> Military Personnel with AI:Podiatric Gait Analysis</a></li>
+      <li><a href="https://www.osti.gov/biblio/1593835/" target="_blank"> SDN-NGenIA Software Defined Next Generation Integrated Architecture </a></li>
+      <li><a href="https://sc24.supercomputing.org/wp-content/uploads/2024/11/nre025.pdf" target="_blank">AI with P4 for Active Network Management (SC24)</a></li>
+      <li><a href="https://medium.com/@shashwithaputtaswamy/addressing-osg-and-the-challenges-of-single-stack-ipv6-1567b7c124b3" target="_blank">OSG & IPv6 Challenges</a></li>
+      <li><a href="https://academic.oup.com/mam/article/30/Supplement_1/ozae044.448/7719687?login=true" target="_blank">Democratization of Multimodal Microscopy Imaging</a></li>
+    </ul>
+</section>
+
+<section>
+    <h2>Certification</h2>
+    <ul>
+      <li><strong>PMP Project ManagementCertificate </strong> </li>
+      <li><strong>MOR Leadership Associate</strong> </li>
+      <li><strong>CCNP Cisco Certified Specialist Data Center Core</strong> </li>
+      <li><strong>SANS Certified – Security Leadership Manager </strong> </li>
+      <li><strong>SANS Certified – Cloud Security Architecture</strong> </li>
+      <li><strong>Fortinet Network Security Expert – Certified</strong> </li>
+      <li><strong>Azure fundamental certificate </strong> </li>
+      <li><strong>AWS Security Essential- NIH Training </strong> </li>
+      <li><strong>Red Hat Certified Specialist in Ansible Automation</strong> </li>
+      <li><strong>HPC certification -GWU coursework completed (Introduction to HPC, Parallel computer Architecture, Network Security, Distribution, and cluster Computing)</strong> </li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Skills</h2>
+    <ul>
+      <li><strong>Routing Protocols:</strong> RIP, EIGRP, OSPF, BGP (IBGP, EBGP)</li>
+      <li><strong>DevOps & Tools:</strong> Ansible, Puppet, Git, Jenkins, LibreNMS, Zeek</li>
+      <li><strong>Ethernet Technologies:</strong> Ethernet, Fast Ethernet, 10/25/40/100/400/800Gbps</li>
+      <li><strong>Monitoring tools:</strong> LibreNMS, netdisco, Zeek server , syslog , wireshark, Nagios , Forman , Grafana </li>
+      <li><strong>Firewalls:</strong> Cisco ASA, Security Device Manager, TACACS, RADIUS</li>
+      <li><strong>Programming:</strong> Python Scripting, C, VHDL and Verilog, Socket Programming, MATLAB</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Projects</h2>
+    <ul>
+      <li><strong>SENSE:</strong> Intelligent network services for data science and ML.</li>
+      <li><strong>SANDIE:</strong> SDN-Assisted Named Data Networking for HEP.</li>
+      <li><strong>PRP:</strong> Secure high-speed data transfer platform between research institutions.</li>
+    </ul>
+  </section>
+
+</body>
+</html>
+
+
 Thanks for visiting my site!
+
