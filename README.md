@@ -1,4 +1,4 @@
- Shashwitha Puttaswamy – GitHub Website
+ Shashwitha Puttaswamy
 
  ![PHOTO-2024-08-31-00-25-00](https://github.com/user-attachments/assets/4ffe37e8-07a8-4fba-b8de-e72d2537f204)
 
