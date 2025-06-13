@@ -89,7 +89,7 @@ Wireless Networks, Stochastic Signals & Systems, Digital Communication, Modem De
   </section>
 
   <section>
-    <h2>Panelist</h2>
+    <h2> Program Committee / Academic Services </h2>
     <ul>
       <li><strong>NSF National Science Foundation CC*:</strong> specialize in assessing papers for the approval of project funds, particularly within the
 domains of Campus Cyberinfrastructure </li>
