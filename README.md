@@ -107,7 +107,6 @@ involve evaluating NSF grant proposals ranging from $100,000 to $1 million</li>
   <section>
     <h2>Projects</h2>
     <ul>
-      <li><strong>SENSE:</strong> Intelligent network services for data science and ML.</li>
      <li><a href="https://indico.cern.ch/event/795430/contributions/3304590/attachments/1794097/2923805/2019-02-06-sense-hepix-v1.pdf" target="_blank"> SENSE: </strong> Intelligent network services for data science and ML.</a></li>
       <li><strong>SANDIE:</strong> SDN-Assisted Named Data Networking for HEP.</li>
       <li><strong>PRP:</strong> Part of a research committee enabling fast and secure data transfers between institutions using Pacific Wave and CalREN.</li>
@@ -126,7 +125,7 @@ involve evaluating NSF grant proposals ranging from $100,000 to $1 million</li>
       <li><strong>SC17 Supercomputing Conference, Denver, CO:</strong> California Institute of Technology (Caltech) - Contributed to high-performance computing and cyberinfrastructure demonstrations at SC17.Collaborated with international partners including AmLight, ANSP, and UNESP to enable high-speed data transfers over the AmLight-ExP1 network.Supported real-time network research showcasing scalable and resilient data movement strategies.Foundation for continued work in advanced networking technologies such as Named Data Networking (NDN) and Software-Defined Networking (SDN)</li>
       <li><strong>SC18 Supercomputing Conference, Dallas, TX:</strong> In 2018, as the primary network Research engineer for Caltech during the annual supercomputing conferences, I played a pivotal role in swiftly commissioning and demonstrating state-of-the-art applications. Leading the implementation of advanced network and server
 installations tailored for data-intensive scientific applications, my efforts supported both current and next-generation programs in high-
-energy physics (LHC) and astrophysics (LSST). For comprehensive details on the concepts, installations, and outcomes of SC18,
+energy physics (LHC) and astrophysics (LSST).( https://sc18.supercomputing.org/app/uploads/2018/11/SC18-NRE-017.pdf )For comprehensive details on the concepts, installations, and outcomes of SC18,
 please refer to the document [available here]
 (https://www.dropbox.com/s/519oaakgbz2zjwh/SC18_ScienceWorkflows_AbstractUpdate111118.docx?dl=0 )
 Notably, the project "SANDIE: SDN-Assisted NDN for Data Intensive Experiments" was presented at the SC18 Network Research
