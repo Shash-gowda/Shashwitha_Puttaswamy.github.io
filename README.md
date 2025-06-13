@@ -102,6 +102,7 @@ please refer to the document [available here]
 Notably, the project "SANDIE: SDN-Assisted NDN for Data Intensive Experiments" was presented at the SC18 Network Research
 Exhibition (Demonstration NRE-022) during the International Conference for High Performance Computing, Networking, Storage, and
 Analysis (SC18) held in Dallas, TX from November 12-15, 2018.</li>
+      <li><strong>SC20 :</strong> Served as a member of the SCinet Routing Team at SC17, supported cutting-edge Network Research Exhibition (NRE) demo projects, and was recognized as a WINS (Women in IT Networking at SC) awardee.( https://sc20.supercomputing.org/planning-committee/index.html )Secure high-speed data transfer platform between research institutions.</li>
       <li><strong>SC22:</strong> Engaged in the Network Routing and Switching team, I participated in SC22, a showcase of avant-garde technologies spanning.
 network, hardware, protocols, information systems, software, and security. This involvement extended to workshops, demos, and
 collaborative opportunities, pushing the boundaries of networking technologies and innovations. Notably, I contributed to achieving a
