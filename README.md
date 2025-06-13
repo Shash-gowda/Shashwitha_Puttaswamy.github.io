@@ -108,6 +108,7 @@ involve evaluating NSF grant proposals ranging from $100,000 to $1 million</li>
     <h2>Projects</h2>
     <ul>
       <li><strong>SENSE:</strong> Intelligent network services for data science and ML.</li>
+     <li><a href="https://indico.cern.ch/event/795430/contributions/3304590/attachments/1794097/2923805/2019-02-06-sense-hepix-v1.pdf" target="_blank"> SENSE: </strong> Intelligent network services for data science and ML.</a></li>
       <li><strong>SANDIE:</strong> SDN-Assisted Named Data Networking for HEP.</li>
       <li><strong>PRP:</strong> Part of a research committee enabling fast and secure data transfers between institutions using Pacific Wave and CalREN.</li>
       <li><strong>Cloud computing using AWS:</strong>  Various AWS projects including installing Apache Website, creating an AMI,monitoring instances, and creating alarms</li>
