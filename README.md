@@ -111,6 +111,11 @@ involve evaluating NSF grant proposals ranging from $100,000 to $1 million</li>
       <li><strong>SANDIE:</strong> SDN-Assisted Named Data Networking for HEP.</li>
       <li><strong>PRP:</strong> Part of a research committee enabling fast and secure data transfers between institutions using Pacific Wave and CalREN.</li>
       <li><strong>Cloud computing using AWS:</strong>  Various AWS projects including installing Apache Website, creating an AMI,monitoring instances, and creating alarms</li>
+      <li><strong>Ad-hoc Multi-hop Multichannel Personal Wireless Sensor Network (AMSN):</strong> Designed a dynamic multi-hop, multi-channel mesh network with sensor nodes for internetwork and intra-network communication.</li>
+      <li><strong>WhyNet Network (High-Speed Centralized Network with QoS feature): </strong>Designed a TDMA-based high-speed coordinated network to reduce MAC Overhead and improve channel utilization.</li>
+      <li><strong>Efficient Downlink Channel Allocation in LTE: </strong> Developed a technique for efficient downlink channel allocation in LTE. </li>
+      <li><strong>Wi-Fi based Data Acquisition & Control System: </strong> Designed a Wireless (Wi-Fi) Automation system for data acquisition and control using Microcontroller ATmega16</li>
+       <li><strong>Redtacton based ATM smart security card:</strong> mplemented Redtacton technology for secure ATM transactions using DTMF and high-speed network transmission.</li>
     </ul>
   </section>
 
