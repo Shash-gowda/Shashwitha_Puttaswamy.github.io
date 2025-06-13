@@ -113,7 +113,7 @@ connections, setting a world record for the fastest recovery from a temporary ne
 influential platform for testing cutting-edge developments in high-performance networking, computing, storage, and analysis. My role
 involved overseeing Network Research Exhibition (NRE) demonstrations, harnessing the advanced capabilities of SCinet, the dedicated.
 high-capacity network for SC.</li>
-     <li><strong>SC24:</strong> Selected for the SC24 Network Research Exhibition (NRE): Participated in the HECATE and PolKA integration project, focusing on AI-enabled traffic engineering for data-intensive science.</li>
+     <li><strong>SC24:</strong> Selected for the SC24 Network Research Exhibition (NRE): Participated in the P4 programming Project , HECATE and PolKA integration project which focusing on AI-enabled traffic engineering for data-intensive science.</li>
     </ul>
   </section>
 </body>
