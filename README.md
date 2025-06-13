@@ -54,6 +54,16 @@ This website showcases my work as a Research Scientist specializing over 10 year
 </section>
 
 <section>
+    <h2>Awards</h2>
+    <ul>
+      <li><a href="https://cenic.org/news/cenic-recognizes-usc-caltech-team" target="_blank"> Innovation in Networking award for experimental Application </a></li>
+      <li><a href="https://internet2.edu/community/" target="_blank"> Diversity and Inclusion Scholarship Recipients Announced for Internet2 Technology Exchange -2019 </a></li>
+      <li><a href="https://sc20.supercomputing.org/2020/09/09/wins-selection-committee-announces-the-sc20-awardees/" target="_blank"> Women in IT Networking at SC (WINS) Sponsored by the Nation Science Foundation, DOE- 2020 </a></li>
+      <li><a href="https://www.arin.net/announcements/20240227/" target="_blank">ARIN53 (American Registry of Internet Numbers) Fellow -2024 </a></li>
+    </ul>
+</section>
+
+<section>
     <h2>Certification</h2>
     <ul>
       <li><strong>PMP Project ManagementCertificate </strong> </li>
