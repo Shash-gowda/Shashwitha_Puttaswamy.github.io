@@ -102,8 +102,16 @@ please refer to the document [available here]
 Notably, the project "SANDIE: SDN-Assisted NDN for Data Intensive Experiments" was presented at the SC18 Network Research
 Exhibition (Demonstration NRE-022) during the International Conference for High Performance Computing, Networking, Storage, and
 Analysis (SC18) held in Dallas, TX from November 12-15, 2018.</li>
-      <li><strong>SANDIE:</strong> SDN-Assisted Named Data Networking for HEP.</li>
-      <li><strong>PRP:</strong> Secure high-speed data transfer platform between research institutions.</li>
+      <li><strong>SC22:</strong> Engaged in the Network Routing and Switching team, I participated in SC22, a showcase of avant-garde technologies spanning.
+network, hardware, protocols, information systems, software, and security. This involvement extended to workshops, demos, and
+collaborative opportunities, pushing the boundaries of networking technologies and innovations. Notably, I contributed to achieving a
+remarkable 6.71 terabits per second of wide area network capacity, with the installation and delivery of sixteen 400 Gbps wide area
+connections, setting a world record for the fastest recovery from a temporary network disruption.</li>
+      <li><strong>SC23:</strong> As the liaison representative for NRE within the Routing and Switching team, I actively contributed to the SC Conference Series—an
+influential platform for testing cutting-edge developments in high-performance networking, computing, storage, and analysis. My role
+involved overseeing Network Research Exhibition (NRE) demonstrations, harnessing the advanced capabilities of SCinet, the dedicated.
+high-capacity network for SC.</li>
+     <li><strong>SC24:</strong> Selected for the SC24 Network Research Exhibition (NRE): Participated in the HECATE and PolKA integration project, focusing on AI-enabled traffic engineering for data-intensive science.</li>
     </ul>
   </section>
 </body>
