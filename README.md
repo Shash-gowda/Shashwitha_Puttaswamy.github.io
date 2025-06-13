@@ -70,6 +70,19 @@ This website showcases my work as a Research Scientist specializing over 10 year
   </section>
 
   <section>
+    <h2>Panelist</h2>
+    <ul>
+      <li><strong>NSF National Science Foundation CC*:</strong> specialize in assessing papers for the approval of project funds, particularly within the
+domains of Campus Cyberinfrastructure </li>
+      <li><strong>NSF National Science Foundation SBIR/STTR Program:</strong> NSF’s SBIR/STTR - America's seed Fund program specialized government panel,provides technology-focused entrepreneurs, startups, and small businesses with funding to develop their ideas and a pathway to commercialization. Powered by a network of federal agencies, entrepreneur support organizations, and the Small Business Administration (SBA), America's Seed Fund advances federal missions and fosters a culture of innovation in the United States My responsibilities
+involve evaluating NSF grant proposals ranging from $100,000 to $1 million</li>
+      <li><strong> PEARC24:</strong> Human Powered Computing Short Papers Panel </li>
+      <li><strong> PEARC25:</strong> Reviewer for PEARC 25 BoFs & Panels</li>
+      <li><strong>SC25 Supercomputing Conference 2025:</strong>Architecture and Network track Paper Panels </li>
+    </ul>
+  </section>
+  
+  <section>
     <h2>Skills</h2>
     <ul>
       <li><strong>Routing Protocols:</strong> RIP, EIGRP, OSPF, BGP (IBGP, EBGP)</li>
