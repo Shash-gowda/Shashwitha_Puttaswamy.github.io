@@ -90,6 +90,22 @@ This website showcases my work as a Research Scientist specializing over 10 year
     </ul>
   </section>
 
+ <section>
+    <h2>International Conferences </h2>
+    <ul>
+      <li><strong>SC18:</strong> In 2018, as the primary network Research engineer for Caltech during the annual supercomputing conferences, I played a pivotal role in
+swiftly commissioning and demonstrating state-of-the-art applications. Leading the implementation of advanced network and server
+installations tailored for data-intensive scientific applications, my efforts supported both current and next-generation programs in high-
+energy physics (LHC) and astrophysics (LSST). For comprehensive details on the concepts, installations, and outcomes of SC18,
+please refer to the document [available here]
+(https://www.dropbox.com/s/519oaakgbz2zjwh/SC18_ScienceWorkflows_AbstractUpdate111118.docx?dl=0 )
+Notably, the project "SANDIE: SDN-Assisted NDN for Data Intensive Experiments" was presented at the SC18 Network Research
+Exhibition (Demonstration NRE-022) during the International Conference for High Performance Computing, Networking, Storage, and
+Analysis (SC18) held in Dallas, TX from November 12-15, 2018.</li>
+      <li><strong>SANDIE:</strong> SDN-Assisted Named Data Networking for HEP.</li>
+      <li><strong>PRP:</strong> Secure high-speed data transfer platform between research institutions.</li>
+    </ul>
+  </section>
 </body>
 </html>
 
