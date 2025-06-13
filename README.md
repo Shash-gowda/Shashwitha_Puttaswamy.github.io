@@ -94,8 +94,7 @@ This website showcases my work as a Research Scientist specializing over 10 year
     <h2>International Conferences </h2>
     <ul>
       <li><strong>SC17 Supercomputing Conference, Denver, CO:</strong> California Institute of Technology (Caltech) - Contributed to high-performance computing and cyberinfrastructure demonstrations at SC17.Collaborated with international partners including AmLight, ANSP, and UNESP to enable high-speed data transfers over the AmLight-ExP1 network.Supported real-time network research showcasing scalable and resilient data movement strategies.Foundation for continued work in advanced networking technologies such as Named Data Networking (NDN) and Software-Defined Networking (SDN)</li>
-      <li><strong>SC18:</strong> In 2018, as the primary network Research engineer for Caltech during the annual supercomputing conferences, I played a pivotal role in
-swiftly commissioning and demonstrating state-of-the-art applications. Leading the implementation of advanced network and server
+      <li><strong>SC18 Supercomputing Conference, Dallas, TX:</strong> In 2018, as the primary network Research engineer for Caltech during the annual supercomputing conferences, I played a pivotal role in swiftly commissioning and demonstrating state-of-the-art applications. Leading the implementation of advanced network and server
 installations tailored for data-intensive scientific applications, my efforts supported both current and next-generation programs in high-
 energy physics (LHC) and astrophysics (LSST). For comprehensive details on the concepts, installations, and outcomes of SC18,
 please refer to the document [available here]
