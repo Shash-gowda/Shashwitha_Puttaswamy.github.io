@@ -42,6 +42,15 @@ This website showcases my work as a Research Scientist specializing over 10 year
     </ul>
   </section>
 
+  <section>
+    <h2>Education</h2>
+    <ul>
+      <li><strong>San Diego State University (SDSU) –San Diego, CA Master of Science in Electrical Engineering </strong><br> Relevant Coursework: Computer Networks, High-Speed Network Design, Wireless Sensor Networks, Multimedia Communication, Multimedia
+Wireless Networks, Stochastic Signals & Systems, Digital Communication, Modem Design, Antenna and Propagation..</li>
+      <li><strong>Visvesvaraya Technological University – Bangalore, India GPA </strong><br>Bachelor of Engineering in Electronics and Communication Engineering</li>
+    </ul>
+  </section>
+
 <section>
     <h2>Publications & Media</h2>
     <ul>
