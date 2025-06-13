@@ -86,7 +86,8 @@ This website showcases my work as a Research Scientist specializing over 10 year
     <ul>
       <li><strong>SENSE:</strong> Intelligent network services for data science and ML.</li>
       <li><strong>SANDIE:</strong> SDN-Assisted Named Data Networking for HEP.</li>
-      <li><strong>PRP:</strong> Secure high-speed data transfer platform between research institutions.</li>
+      <li><strong>PRP:</strong> Part of a research committee enabling fast and secure data transfers between institutions using Pacific Wave and CalREN.</li>
+      <li><strong>Cloud computing using AWS:</strong>  Various AWS projects including installing Apache Website, creating an AMI,monitoring instances, and creating alarms</li>
     </ul>
   </section>
 
