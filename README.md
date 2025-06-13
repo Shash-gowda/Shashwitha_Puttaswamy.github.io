@@ -126,18 +126,18 @@ please refer to the document [available here]
 Notably, the project "SANDIE: SDN-Assisted NDN for Data Intensive Experiments" was presented at the SC18 Network Research
 Exhibition (Demonstration NRE-022) during the International Conference for High Performance Computing, Networking, Storage, and
 Analysis (SC18) held in Dallas, TX from November 12-15, 2018.</li>
-      <li><strong>SC20 :</strong> Served as a member of the SCinet Routing Team at SC17, supported cutting-edge Network Research Exhibition (NRE) demo projects, and was recognized as a WINS (Women in IT Networking at SC) awardee.( https://sc20.supercomputing.org/planning-committee/index.html )Secure high-speed data transfer platform between research institutions.</li>
-     <li><strong>SC21:</strong> ( https://sc21.supercomputing.org/planning-committee/index.html ) </li>
-      <li><strong>SC22:</strong> Engaged in the Network Routing and Switching team, I participated in SC22, a showcase of avant-garde technologies spanning.
+      <li><strong>SC20 Supercomputing Conference, Virtual Event :</strong> Served as a member of the SCinet Routing Team at SC17, supported cutting-edge Network Research Exhibition (NRE) demo projects, and was recognized as a WINS (Women in IT Networking at SC) awardee.( https://sc20.supercomputing.org/planning-committee/index.html )Secure high-speed data transfer platform between research institutions.</li>
+     <li><strong>SC21 Supercomputing Conference,St Louis, Missouri:</strong>  Part of the SCinet Routing team ,  It delivered 2.2 Tbps of wide area network capacity, 325 wireless access points, 6 miles of floor spool, and 10 miles of aerial strand.( https://sc21.supercomputing.org/planning-committee/index.html ) </li>
+      <li><strong>SC22 Dallas, Texas:</strong> Engaged in the Network Routing and Switching team, I participated in SC22, a showcase of avant-garde technologies spanning.
 network, hardware, protocols, information systems, software, and security. This involvement extended to workshops, demos, and
 collaborative opportunities, pushing the boundaries of networking technologies and innovations. Notably, I contributed to achieving a
 remarkable 6.71 terabits per second of wide area network capacity, with the installation and delivery of sixteen 400 Gbps wide area
 connections, setting a world record for the fastest recovery from a temporary network disruption.</li>
-      <li><strong>SC23:</strong> As the liaison representative for NRE within the Routing and Switching team, I actively contributed to the SC Conference Series—an
+      <li><strong>SC23 Supercomputing Conference,Denver, Colorado :</strong> As the liaison representative for NRE within the Routing and Switching team, I actively contributed to the SC Conference Series—an
 influential platform for testing cutting-edge developments in high-performance networking, computing, storage, and analysis. My role
 involved overseeing Network Research Exhibition (NRE) demonstrations, harnessing the advanced capabilities of SCinet, the dedicated.
 high-capacity network for SC.</li>
-     <li><strong>SC24:</strong> Selected for the SC24 Network Research Exhibition (NRE): Participated in the P4 programming Project , HECATE and PolKA integration project which focusing on AI-enabled traffic engineering for data-intensive science.</li>
+     <li><strong>SC24 Supercomputing Conference, Atlanta :</strong> SC24 Network Research Exhibition (NRE): Participated in the P4 programming Project , HECATE and PolKA integration project which focusing on AI-enabled traffic engineering for data-intensive science.</li>
     </ul>
   </section>
 </body>
